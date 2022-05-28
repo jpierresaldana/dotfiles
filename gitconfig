@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = ian-pr@hotmail.com
+	name = jean saldana
